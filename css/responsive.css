@@ -62,6 +62,7 @@
 	}
 	.lbox-details h1{
 		font-size: 24px;
+		padding-top: 0px;
 	}
 	.lbox-details h2{
 		font-size: 18px;
@@ -72,9 +73,7 @@
 	.lbox-details a.btn{
 		display: none;
 	}
-	.lbox-details h1{
-		padding-top: 0px;
-	}
+	
 	.countdown{
 		background: url(../images/ptn-bg.jpg);
 		background-size: cover;
@@ -100,6 +99,8 @@
 		-o-transition: all 0.4s ease-in-out;
 		-ms-transition: all 0.4s ease-in-out;
 		transition: all 0.4s ease-in-out;
+		padding: 0px 0px;
+		border-radius: 0%;
 	}
 	
 	.countdown #timer h3{

@@ -487,6 +487,8 @@ button:focus{
 	-o-transition: all 0.4s ease-in-out;
 	-ms-transition: all 0.4s ease-in-out;
 	transition: all 0.4s ease-in-out;
+	padding: 5px 5px;
+	border-radius: 50%;
 }
 
 .countdown #timer h3{
@@ -961,6 +963,7 @@ button:focus{
 
 .events-box{
 	padding: 70px 0px;
+	padding-bottom: 30px;
 }
 .event-inner{
 	background: #ffffff;
@@ -1073,12 +1076,18 @@ select.form-control:not([size]):not([multiple]){
 }
 
 .footer-box .footer-company-name a{
-	color: #881228;
+	color: gray;
 }
 .footer-box .footer-company-name a:hover{
-	color: #63c7bd;
+	color: #f30baa;
 }
 
+.thankyou{
+	width: 80%;
+	margin: auto;
+	text-align: center;
+	color: black;
+}
 
 
 
