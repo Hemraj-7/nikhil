@@ -409,6 +409,10 @@ button:focus{
 	padding: 11% 0%;
 }
 
+.lbox-details h1{
+	padding-top: 90px;
+}
+
 .lbox-details::before{
 	content: "";
 	background: rgba(0,0,0,0.5);

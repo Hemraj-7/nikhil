@@ -16,6 +16,9 @@
 	.top-header .navbar .navbar-collapse ul li a{
 		padding: 5px 15px;
 	}
+	.lbox-details h1{
+		padding-top: 0px;
+	}
 	.about-img{
 		margin-bottom: 30px;
 		margin-top: 30px;
@@ -68,6 +71,9 @@
 	}
 	.lbox-details a.btn{
 		display: none;
+	}
+	.lbox-details h1{
+		padding-top: 0px;
 	}
 	.countdown{
 		background: url(../images/ptn-bg.jpg);
