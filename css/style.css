@@ -1079,7 +1079,7 @@ select.form-control:not([size]):not([multiple]){
 	color: gray;
 }
 .footer-box .footer-company-name a:hover{
-	color: #f30baa;
+	color: silver;
 }
 
 .thankyou{
